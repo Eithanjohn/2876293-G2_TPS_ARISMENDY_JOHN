@@ -1,0 +1,29 @@
+commit ce858196d008f5130f2fe9fd7eb2e4feac63ae94
+Author: Eithanjohn <johneithan123@gmail.com>
+Date:   Fri Jul 12 12:41:44 2024 -0500
+
+    cambios a la estatura lugar de residencia y que estudia
+
+commit e4bff2a2ca8a2e0f6733739ca0f3d919424a1483
+Author: Eithanjohn <johneithan123@gmail.com>
+Date:   Fri Jul 12 12:11:01 2024 -0500
+
+    hggkhljljlkjl
+
+commit 1e97b1081fe3cc022c09548219e776c0c16e71fb
+Author: Eithanjohn <johneithan123@gmail.com>
+Date:   Fri Jul 12 11:29:59 2024 -0500
+
+    creacion de archivo Resumen al repositorio
+
+commit 7c0dbb48c2bb8d6de4147a306bd32df41cd430bd
+Author: Eithanjohn <johneithan123@gmail.com>
+Date:   Fri Jul 12 11:25:40 2024 -0500
+
+    cambios al archivo en la edad y donde vivo
+
+commit 071b66c87d69d6e3b48bb6e8bb4ba8404ca84a68
+Author: Eithanjohn <johneithan123@gmail.com>
+Date:   Fri Jul 12 11:19:42 2024 -0500
+
+    Este es el primer commit de este archivo
