@@ -46,3 +46,7 @@ git reset (Sha n°commit) --hard = regresa a
 ¿ # cual es la Diferencia entre el  reset hard y el reset soft?
 
 git commit -am" guardar los cambios  de los archivos que esten en staying"
+
+git checkout =cambia la rama de trabajo
+# git checkout +nombre de la rama(master-cabecera)
+git merge = fuciona los contenidos con otra 
