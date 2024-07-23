@@ -69,3 +69,8 @@ Uso Principal en GitHub:
 Firmar Commits: Los desarrolladores pueden firmar sus commits con una clave GPG o S/MIME. Esto asegura que el commit fue hecho por el propietario de la clave y que el contenido no ha sido alterado.
 Firmar Tags: Similar a los commits, las etiquetas también pueden ser firmadas para garantizar que provienen de una fuente verificada.
 Funcionamiento: La clave privada se utiliza para firmar el contenido, y cualquiera con la clave pública correspondiente puede verificar la firma para asegurarse de que proviene del propietario de la clave privada y que el contenido no ha sido modificado.
+# configuracion del git con la rama "main"
+git config --global init.defaultbranch "main" = cambiar nombre de rama "master" por la rama "Main"
+
+# cambiar o dar solucion "a cambio de las ramas"?
+git branch -m master  o main
