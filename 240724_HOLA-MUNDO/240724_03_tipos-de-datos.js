@@ -36,7 +36,6 @@ let carro ={
 let frutas =['manzanas','Banano'];
 
 //funciones
-
-//function 
+//
 
 //paradigma orientado a Objetos, 'POO'//
