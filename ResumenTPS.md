@@ -78,6 +78,15 @@ git branch -m master  o main
 # git push para enviar al repositorio remoto
 git push --all origin
 
-# metodos y propiedades
+#  funciones estan compuestas de metodos y propiedades
 paradigma que todo es relacionado a un objeto
-function [nombre](parametros){complemento}
+function [nombre](parametros){cuerpo de la funcion}
+
+# composicion de los objetos
+const [nombre]{
+   [propiedades] 
+   [metodos] 
+}
+# crear arrays
+ los arrays estan marcados por indices poscion de los argumentos o parametros
+ const [nombre]= array (entradas,) [1],[2],[3] <- indices

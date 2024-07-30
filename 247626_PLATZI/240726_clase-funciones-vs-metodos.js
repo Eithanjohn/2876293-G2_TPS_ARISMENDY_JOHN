@@ -23,15 +23,15 @@ a.call (obj)
 
 //anidar funciones -> mested funtions
 function a (){}
-function b (){}
-function c (){}
+ function b (){}
+  function c (){}
 
 // es posible almacenar funciones en objetos
 
 const rocket ={
     name: 'falcon 9',
     launchMessage:function launchMessage (){
-        console.log ('')
+        console.log ('🔥')
     }
 
 }

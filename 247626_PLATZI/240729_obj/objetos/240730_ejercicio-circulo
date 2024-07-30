@@ -1,0 +1,13 @@
+ const circle ={
+    nombre: "circulo",
+    numeroDeCirculo: 1,
+    borde:"negro",
+    color: 'amarillo',
+    area: {
+        diametro:40,
+        radio: 20,}    
+ }, 
+ describir(){
+console.log(`hola, midescripcion es ${circle.circulo}`)};
+ 
+circle.describir ()
