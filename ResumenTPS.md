@@ -74,3 +74,10 @@ git config --global init.defaultbranch "main" = cambiar nombre de rama "master" 
 
 # cambiar o dar solucion "a cambio de las ramas"?
 git branch -m master  o main
+
+# git push para enviar al repositorio remoto
+git push --all origin
+
+# metodos y propiedades
+paradigma que todo es relacionado a un objeto
+function [nombre](parametros){complemento}

@@ -1,10 +1,10 @@
-function calculatedDiscountedPrice (price,discountPercentage){
+function calculatedDiscountedPrice (price,discountPercentage){//funciones
     const discount =(price + discountPercentage)/100
     const priceWithDiscount = price - discount
     return priceWithDiscount
 
 
-const originalPrice =1000
+const originalPrice =1000 //variables
 const discountPercentage=15
 const finalPrice = calculateDiscountedPrice(originalPrice,discountPercentage)
 
