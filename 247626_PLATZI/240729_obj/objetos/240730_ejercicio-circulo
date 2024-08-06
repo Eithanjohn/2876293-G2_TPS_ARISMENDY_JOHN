@@ -8,6 +8,7 @@
         radio: 20,}    
  }, 
  describir(){
-console.log(`hola, midescripcion es ${circle.circulo}`)};
+console.log(`hola, midescripcion es ${circle.circulo}`);
+};
  
 circle.describir ()
